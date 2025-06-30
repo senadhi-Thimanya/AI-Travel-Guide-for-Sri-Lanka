@@ -6,21 +6,31 @@ A serverless AI travel assistant that answers questions about Sri Lankan tourism
 
 Live demo : https://brave-mushroom-070b6770f.1.azurestaticapps.net/
 
-# Deployment Guide
+# 📋 Prerequisites
+
+- Node.js 20+ and npm
+- Python 3.11+ and pip
+- Azure subscription
+- Git
+
+# 🛠️Deployment Guide
 
 - Deploy to Azure
+```
+# Clone the repository
+git clone  https://github.com/senadhi-Thimanya/AI-Travel-Guide-for-Sri-Lanka.git
 
-```
-azd deploy
-```
-- Or Provision and deploy
-```
+# Authenticate with Azure
+azd auth login
+
+# Deploy to Azure
 azd up
 ```
-- Delete resources after trying out
+- Remember to delete resources afterwards
 ```
 azd down
 ```
+
 # Sources
 
 All sources are stored in the data folder
