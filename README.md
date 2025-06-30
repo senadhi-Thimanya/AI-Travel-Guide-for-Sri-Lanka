@@ -34,3 +34,7 @@ azd down
 # Sources
 
 All sources are stored in the data folder
+
+# License
+
+MIT License
