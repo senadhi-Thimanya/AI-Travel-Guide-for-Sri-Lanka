@@ -2,6 +2,10 @@
 
 ![Tour Guide UI](image.png)
 
+<video controls width="600">
+<source src="./assets/video.mp4" type="video/mp4">
+</video>
+
 A serverless AI travel assistant that answers questions about Sri Lankan tourism using Retrieval-Augmented Generation (RAG) with LangChain.js, Azure AI, and PDF-based travel documents.
 
 Live demo : https://brave-mushroom-070b6770f.1.azurestaticapps.net/
