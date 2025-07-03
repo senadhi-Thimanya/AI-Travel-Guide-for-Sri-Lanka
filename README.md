@@ -1,10 +1,6 @@
 # Travel Guide for Sri Lanka - Chatbot
 
-
-
-https://github.com/user-attachments/assets/777c991f-c5f6-4459-a4cc-16fb5453f77d
-
-
+https://github.com/user-attachments/assets/7a61d59c-aa64-4ab8-ac74-eaf391abc928
 
 A serverless AI travel assistant that answers questions about Sri Lankan tourism using Retrieval-Augmented Generation (RAG) with LangChain.js, Azure AI, and PDF-based travel documents.
 
